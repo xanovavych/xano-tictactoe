@@ -1,14 +1,12 @@
 /* FOOTER START === */
 footer {
   color: white;
-  margin-top: 50px;
+  margin-top: 20px;
 }
 footer p {
-  margin-top: 10px;
+  margin-top: 2px;
   text-align: center;
   font-size: 12px;
-}
-footer a {
-  color: yellow;
+  color: gray;
 }
 /* FOOTER END === */

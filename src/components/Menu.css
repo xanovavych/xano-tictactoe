@@ -21,6 +21,7 @@
   position: absolute;
   /* relative and absolute were added SO THAT we can use z-index */
   /* so that menu is ABOVE THE BOARD */
+  text-align: center;
   z-index: 10;
   top: 60px; /* added padding from top */
   right: 0; /* removed padding from right */

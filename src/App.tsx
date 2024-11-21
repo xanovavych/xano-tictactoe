@@ -40,7 +40,6 @@ export default function App() {
           status,
         });
       }
-      console.log(stateClone.history.currentRoundGames, "currentRoundGames");
       stateClone.moves = [];
 
       if (isNewRound) {
@@ -62,10 +61,6 @@ export default function App() {
       return stateClone;
     });
   }
-
-  console.log(game);
-  console.log(stats);
-
   //   const showModal = false;
 
   return (
