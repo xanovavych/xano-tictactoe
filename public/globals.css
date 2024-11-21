@@ -53,9 +53,9 @@ button:hover {
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(3, 80px);
-  grid-template-rows: 50px repeat(3, 80px) 60px;
-  gap: 5px;
+  grid-template-columns: repeat(3, 100px);
+  grid-template-rows: 50px repeat(3, 100px) 60px;
+  gap: 10px;
 }
 @media (min-width: 768px) {
   .grid {
